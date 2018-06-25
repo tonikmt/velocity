@@ -1,0 +1,4 @@
+$!client.leftPad('QWES', 5 , 'T')
+$!client.rightPad('8', 50 , 'TEST')
+
+
